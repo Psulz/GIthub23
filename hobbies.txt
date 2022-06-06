@@ -1,0 +1,3 @@
+Hobbie 1 = Sports 
+Hobbie 2 = movies 
+Hobbie 3 = Vacation with family 
